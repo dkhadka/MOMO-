@@ -109,7 +109,8 @@
 				DC1C4482262242AF000BEC78 /* SceneDelegate.swift */,
 				DC1C4484262242AF000BEC78 /* ViewController.swift */,
 				DC1C44B826224BE4000BEC78 /* ReasturantCell.swift */,
-				DC1C44BD26224CC7000BEC78 /* Restaurant.swift */,
+				DC1C44C2262253A8000BEC78 /* home */,
+				DC1C44C3262253AE000BEC78 /* Data */,
 				DC1C4486262242AF000BEC78 /* Main.storyboard */,
 				DC1C44B326224590000BEC78 /* List.json */,
 				DC1C4489262242B0000BEC78 /* Assets.xcassets */,
@@ -135,6 +136,21 @@
 				DC1C44A4262242B0000BEC78 /* Info.plist */,
 			);
 			path = MoMoUITests;
+			sourceTree = "<group>";
+		};
+		DC1C44C2262253A8000BEC78 /* home */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = home;
+			sourceTree = "<group>";
+		};
+		DC1C44C3262253AE000BEC78 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				DC1C44BD26224CC7000BEC78 /* Restaurant.swift */,
+			);
+			path = Data;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
